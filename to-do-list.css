@@ -1,0 +1,105 @@
+body {
+  background-color: rgb(25, 24, 24);
+}
+
+img {
+  width: 40%;
+  position: relative;
+  bottom: 100px;
+  left: 30%;
+}
+
+.heading {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 35px;
+  font-weight: 600;
+  color: rgb(47, 241, 160);
+  font-family:  courier new,Courier,monospace;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(47, 241, 160);
+  font-family:  courier new,Courier,monospace;
+  text-align: center;
+}
+
+.container {
+  border: solid rgb(47, 241, 160) 2px;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  bottom: 200px;
+}
+
+input {
+  width: 57%;
+  margin-left: 10%;
+  padding: 1.5%;
+  font-family: monospace;
+  padding-left: 2%;
+  font-size: 20px;
+  border: rgb(47, 241, 160) 2px solid;
+  border-radius: 5px;
+  background-color: rgb(25, 24, 24);
+  color: rgb(47, 241, 160);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.cursor-trick {
+  margin-left: 1.5%;
+  padding: 1.5%;
+  font-family: monospace;
+  background-color: rgb(25, 24, 24);
+  color: rgb(47, 241, 160);
+  font-size: 20px;
+  border: rgb(47, 241, 160) 2px solid;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+}
+
+.cursor-trick:hover {
+  cursor: pointer;
+  padding-right: 5%;
+}
+
+.cursor-trick:active {
+  cursor: default;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  overflow-wrap: break-word;
+  display: inline-block;
+  margin-bottom: 1%;
+  margin-left: 6.5%;
+  width: 60%;
+  padding: 1.5%;
+  font-family: monospace;
+  background-color: rgb(25, 24, 24);
+  color: rgb(47, 241, 160);
+  font-size: 20px;
+  border: rgb(47, 241, 160) 2px solid;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
