@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo
 
-Experience the task manager in action: **[View Live Demo Here](https://senatoremperor.github.io/TDL/)**
+Experience the task manager in action: **<a href="https://senatoremperor.github.io/TDL/" target="_blank">View Live Demo Here 🚀</a>**
 
 ---
 
