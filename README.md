@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List App
+# 📝 Simple To-Do List App [by Ramazan Kamilov]
 
 [![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://senatoremperor.github.io/TDL/)
 [![Technologies](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)](https://senatoremperor.github.io/TDL/)
